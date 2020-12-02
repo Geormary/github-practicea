@@ -1,2 +1,4 @@
 # github-practicea
-"Hello "
+## "Hello "
+### Hi
+#### Hola
